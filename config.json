@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "sessioncpdate",
+        "uuid": 13853268,
+        "checksum": "5lp9yo"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
